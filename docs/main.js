@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\habdul\Source\Haseeb\Projects\Interactive-Comments-Section\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! C:\Haseeb\Project\Interactive-Comments-Section\src\main.ts */"zUnb");
 
 
 /***/ }),
