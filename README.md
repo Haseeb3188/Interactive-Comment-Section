@@ -6,8 +6,8 @@ TODO: Guide users through getting your code up and running on their own system. 
 2.	Visual studio code, Angular 11+ , ngx-timeago
 
 # Build and Test
-npm install
-ng serve or npm run
+1. npm install
+2. ng serve or npm run
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
