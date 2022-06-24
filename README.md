@@ -7,8 +7,8 @@ TODO: Guide users through getting your code up and running on their own system. 
 
 # Build and Test
 1. npm install
-2. ng serve or npm run
-
+2. ng serve
+3.
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
 
